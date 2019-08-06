@@ -1,7 +1,8 @@
 # A&R Discovery Categorization Tool
 
-Do you discover music like you're an A&R exec? Do you want a better way to categorize each of your artists? With A&R DiscoCat (name subject to change) you can insert your newly discovered artists with a link to thier music and place them in as many existing or new categories as you want. You can then view all the artists you have found in each of the categories in a neat view, thus helping you keep track of the artists you are tracking.
+Do you discover music like you're an A&R exec? Do you want a better way to categorize each of your artists? With A&R DiscoCat (name subject to change) you can insert your newly discovered artists with a link to their music and place them in as many existing or new categories as you want. You can then view all the artists you have found in each of the categories in a neat view, thus helping you keep track of the artists you are tracking.
 
+<i>Note: This project is not completed yet</i>
 
 
 <hr>
